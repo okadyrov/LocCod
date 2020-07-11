@@ -1,4 +1,4 @@
-const baseUrl = 'specify URL here';
+const baseUrl = 'https://stage.localcoding.us';
 const specs = ['./test/specs/**/*.spec.js'];
 
 exports.config = {
